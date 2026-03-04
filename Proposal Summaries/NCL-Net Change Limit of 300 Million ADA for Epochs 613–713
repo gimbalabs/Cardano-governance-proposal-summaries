@@ -1,0 +1,106 @@
+# Net Change Limit of 300 Million ADA for Epochs 613 – 713
+
+## 📊 Title: **Net Change Limit of 300 Million ADA for Epochs 613 – 713**
+
+**Governance Action Type:** Info Action (sentiment signal)
+
+**Submitted:** Feb 6, 2026 (Epoch 611)
+
+**Voting Window:** Covers Epochs 613 – 713
+
+**Status:** Live voting for stakeholder signals on this limit.
+
+**TLDR:** The Net Change Limit (NCL) sets the maximum ADA that can be withdrawn from the Cardano treasury in a given period and is typically aligned with the treasury’s annual inflows (~315 M ADA, ±15%) to maintain sustainability, but because a new NCL has not yet been agreed upon, the broader budgeting process has been stalled since December.
+
+---
+
+## 📌 Summary (What the Proposal Is)
+
+This governance action proposes setting a **Net Change Limit** of **300 million ADA** (as lovelace) for the specified period (Epochs 613–713). Essentially, it’s a parameter used in Cardano’s governance and treasury processes that ***caps aggregate changes to treasury spending and withdrawals within a timeframe*** — helping ensure fiscal discipline and predictable budgeting. As an ***Info Action*,** this proposal doesn’t itself enact a change but allows Delegated Representatives (DReps) and voters to indicate whether they support this parameter signal.
+
+> *Net Change Limits* are governance parameters tied to the protocol’s economic controls. They help define how much liquidity or allocation may be shifted via governance actions within an epoch range. This type of parameter can affect how treasury budgeting, withdrawals, and resource allocations get approved or executed.
+> 
+
+---
+
+## 🧠 Gimbalabs Perspective
+
+From a **Gimbalabs lens** — focusing on *participation, transparency, ecosystem sustainability, and tooling impact* — this proposal touches a few key themes:
+
+### ✅ Stability & Fiscal Predictability
+
+- A **Net Change Limit** provides a *protocol-level guardrail* on how much ADA can be shifted via governance over a span of epochs. Predictable limits help long-term planning and discourage sudden, large treasury fluctuations.
+- For builders and ecosystem participants (like Gimbalabs topics around Dev tooling or DAO-linked budgeting processes), knowing the fiscal runway and caps aids in **project planning** and **resource allocation risk assessment**.
+
+### ✅ Governance Risk Management
+
+- Setting a limit through an *Info Action* encourages broad participation on *policy preferences* without immediate risk of funds moving.
+- From a risk governance view, testing community sentiment on high-level limits before hard enforcement is a **thoughtful step** for experimental on-chain governance.
+
+### ⚠️ Interaction With Budgeting & Execution
+
+- While this signal does not directly execute anything, cumulative limits like this *can influence how quickly future treasury actions (e.g., withdrawals or budget executions) can be enacted.*
+- Lower limits could constrain larger, multi-epoch budget operations, which could be a concern for ambitious funding vehicles (e.g., DeltaDeFi or tooling budgets), while overly high limits risk *overextension*.
+
+### 🧩 Communication & Community Engagement
+
+- Because GovTool currently requires users (especially non-technical participants) to understand nuanced parameters like “Net Change Limit,” there’s a **communication challenge** — one that Gimbalabs may highlight in reporting. Clear explanation vehicles (forum threads, simple dashboards) improve **broader voter participation and confidence**.
+
+---
+
+## 🧾 Impact Summary
+
+| Aspect | Gimbalabs Focus | Notes |
+| --- | --- | --- |
+| **Treasury Discipline** | High | Helps stabilize long-term budgeting horizons. |
+| **Budget Execution** | Medium | Secondary effect through limits on governance changes. |
+| **Voter Understanding** | Medium-High | Requires educational effort; technical terminology. |
+| **Signal vs Execution** | Strategic | Info Action informs future policy but doesn’t enact it directly. |
+
+---
+
+## 🛠️ Gimbalabs Concerns to Monitor
+
+1. **Clarity for Delegator** — How well is the parameter explained to ADA holders without deep governance expertise?
+2. **Interaction With Major Withdrawals** — Does a 300M limit align with expected treasury use cases (e.g., infrastructure budgets)?
+3. **Stability vs Flexibility** — Is the limit conservative enough to prevent sudden overspending while still enabling strategic investments?
+
+---
+
+## 🔗 Source & Links
+
+- Live GovTool proposal: [https://gov.tools/governance_actions/73a4eb2148781c37ef37c90a33a1d3d00511a8eefe9cdfaa1ea593b090f23f96](https://gov.tools/governance_actions/73a4eb2148781c37ef37c90a33a1d3d00511a8eefe9cdfaa1ea593b090f23f96)
+- Discussion page (metadata & context): [https://gov.tools/proposal_discussion/320](https://gov.tools/proposal_discussion/320)
+- [InterSect Budget Committee on YouTube](https://www.youtube.com/@IntersectCBC)
+- InterSect Budget Committee on Discord - #Budget-Committee-Area
+- [InterSect Budget Committee documentation](https://budgetcommittee.docs.intersectmbo.org/)
+- [Cardano Foundation post on NCL](https://cardanofoundation.org/blog/understanding-cardanos-net-change-limit) 
+- [2025 NCL governance transaction](https://adastat.net/governances/9b62b3c632f329016a968ac25211825bb4f84b12461121c7da3aa11df92370f900)
+- [View rationale on the cgov tool](https://app.cgov.io/governance/73a4eb2148781c37ef37c90a33a1d3d00511a8eefe9cdfaa1ea593b090f23f96:0)
+- [Give your rationale on this proposal to support the GL DREP](https://drep.gimbalabs.com/gov-actions/73a4eb2148781c37ef37c90a33a1d3d00511a8eefe9cdfaa1ea593b090f23f96%230)
+  
+## Questions:
+
+What are epoch 613 and 713?
+
+- 613 is Feb 13, 2026.  713 is June 28th, 2027
+
+Do we have an NLC at the moment?
+
+-Yes, it’s **350M ADA**
+
+[On the ADAStat explorer](https://adastat.net/governances/9b62b3c632f329016a968ac25211825bb4f84b12461121c7da3aa11df92370f900) - 
+
+what is the current NCL proposal?
+
+-**300M ADA** for Epochs 613–713 (needs ratification) ([gov.tools](https://gov.tools/proposal_discussion/320))
+
+What did they do with the previous budgets?
+
+-Based on the **prior year’s treasury inflows**, aligning withdrawals with revenue to preserve sustainability. 
+
+What is the rationale of the number?
+
+- Total treasury inflows for 2025 are defined as the sum of inflows from Epoch 532 through Epoch 604. These inflows totaled 306,940,195 ADA.
+
+-The **maximum total ADA** that can be withdrawn via budget or treasury actions over a set period. ([https://cardanofoundation.org](https://cardanofoundation.org/blog/understanding-cardanos-net-change-limit))
