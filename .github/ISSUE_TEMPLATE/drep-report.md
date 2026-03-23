@@ -4,9 +4,7 @@ about: Report and discussion notes for governance review
 title: "[DRep] YYYY-MM-DD - Topic"
 labels: drep, governance
 ---
-# 
-
-## 
+ 
 **Title:** 
 
 **Governance Action Type:** 
@@ -22,9 +20,6 @@ labels: drep, governance
 ---
 
 ## 📌 Summary (What the Proposal Is)
-
-
-
 
 ---
 
@@ -65,7 +60,7 @@ labels: drep, governance
 
 
   
-## Questions:
+## 💬 Discussion Notes and Questions:
 
 
 ## 🧭 Context
@@ -73,14 +68,8 @@ Weekly DRep review during Gimbalabs Open Spaces
 
 ## 🔗 Proposal / Governance Action
 
-## 📝 Summary
-
-## 💬 Discussion Notes
-
 ## 📊 Community Sentiment
 
 ## 🗳️ DRep Direction / Signal
 
 ## 👤 Presenter
-
-## 📅 Date
