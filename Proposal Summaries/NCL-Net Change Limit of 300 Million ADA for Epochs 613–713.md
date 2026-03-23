@@ -80,6 +80,16 @@ From a **Gimbalabs lens** — focusing on *participation, transparency, ecosyste
 - [Give your rationale on this proposal to support the GL DREP](https://drep.gimbalabs.com/gov-actions/73a4eb2148781c37ef37c90a33a1d3d00511a8eefe9cdfaa1ea593b090f23f96%230)
   
 ## Questions:
+Are thtere indiv proposal limits or the the whole budget?
+- not sure
+
+What are they spending on?  How to look at the actual budget?  
+- this sets the pool
+- HOw its distritubed isthe problem? the ammout of the pool isn't a big problem
+- how does the budget support the ecostyem
+- how do we decide what gets 
+
+
 
 What are epoch 613 and 713?
 
